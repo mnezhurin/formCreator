@@ -1,0 +1,15 @@
+.formElement{
+    margin: 10px 0px;
+    padding: 20px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+}
+.formElement-head{
+    display: flex;
+    justify-content: space-between;
+}
+.question{
+    width: 50%
+}
+.formChoose{
+    margin: 0
+}

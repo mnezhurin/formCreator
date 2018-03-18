@@ -1,0 +1,11 @@
+.field{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    margin-right: 12px;
+}
